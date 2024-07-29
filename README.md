@@ -14,7 +14,7 @@ A simple app to fetch and display the most popular articles from the NY Times Mo
 
 1. Clone the repository:
 
-    git clone https://github.com/yourusername/NYTimesPopularArticles.git
+    git clone  https://github.com/msbhatti434/most_populer_articles.git
     
 2. Open the project in Xcode:
 
